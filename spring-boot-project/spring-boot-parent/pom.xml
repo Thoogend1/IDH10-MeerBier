@@ -23,7 +23,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<aether.version>1.0.2.v20150114</aether.version>
-		<maven.version>3.1.1</maven.version>
+		<maven.version>3.8.1</maven.version>
 		<spock.version>1.0-groovy-2.4</spock.version>
 	</properties>
 	<scm>
